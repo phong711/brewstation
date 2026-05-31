@@ -23,8 +23,6 @@ You can quickly install BrewStation via Homebrew using the custom tap below:
 
 If any issues arise or you have any questions or feature wishes! Dont hesitate to contact me at hreinssondev@gmail.com
 
-Signed and Notarized - com.hreinssondev.apple
-
 ```bash
 # Tap the repository
 brew tap hreinssondev/brewstation
