@@ -31,7 +31,4 @@ brew tap hreinssondev/brewstation
 # Install BrewStation Cask
 brew install --cask hreinssondev/brewstation/brewstation
 
-[![Homebrew Formula](https://img.shields.io/badge/homebrew-cask-orange.svg)](https://formulae.brew.sh)
-[![Platform](https://img.shields.io/badge/platform-macOS-blue.svg)](https://www.apple.com/macos/)
-[![License](https://img.shields.io/badge/license-Terms%20%26%20Conditions-lightgrey.svg)](TERMS_AND_CONDITIONS.md)
-
+Signed and Notarized by com.hreinssondev.
