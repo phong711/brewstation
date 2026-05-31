@@ -2,20 +2,36 @@
 
 >
 
-BrewStation!
 
-Skip the terminal and get all the benefits of using Homebrew with full app and formulae management with a simple to use GUI application. Manage and view all your Homebrew apps in one place. Search all of Homebrew directly in the app. Homebrewing made simple!
+# BrewStation
 
-Uscases:
-1. Can be used as a Homebrew viewer and manager.
-2. Can be used as a App restore tool that backs up and saves app states (full snapshot) to be viewed and managed with the built-in snapshot library.
-3. Can be used as a New Mac setup tool, save app snapshots from one Mac and install and restore them (Fully!) with one click on another Mac.
 
-Homebrew: 
+Skip the terminal and get all the benefits of using Homebrew with full application and formulae management wrapped inside a simple, intuitive, and modern native macOS GUI. Manage, search, back up, and deploy your entire Mac application ecosystem in one place.
 
-- brew tap hreinssondev/brewstation
 
-- brew install --cask hreinssondev/brewstation/brewstation
+## Key Features & Use Cases
 
+* **Homebrew Viewer & Manager:** Browse, search, install, update, and uninstall all Homebrew formulae and casks directly within the application. Say goodbye to complex CLI flags.
+* **Time-Machine for Apps:** Create a full snapshot of your application states. Back up your active apps to the built-in snapshot library and restore them seamlessly.
+* **One-Click New Mac Setup:** Transitioning to a new machine? Save your application snapshot on your old Mac, move it over, and install/restore your entire environment fully with a single click.
+* **Real-time Insights:** Stay updated with curated lists of trending packages and applications within the community ecosystem.
+
+
+## Installation
+
+You can quickly install BrewStation via Homebrew using the custom tap below:
 
 If any issues arise or you have any questions or feature wishes! Dont hesitate to contact me at hreinssondev@gmail.com
+
+
+```bash
+# Tap the repository
+brew tap hreinssondev/brewstation
+
+# Install BrewStation Cask
+brew install --cask hreinssondev/brewstation/brewstation
+
+[![Homebrew Formula](https://img.shields.io/badge/homebrew-cask-orange.svg)](https://formulae.brew.sh)
+[![Platform](https://img.shields.io/badge/platform-macOS-blue.svg)](https://www.apple.com/macos/)
+[![License](https://img.shields.io/badge/license-Terms%20%26%20Conditions-lightgrey.svg)](TERMS_AND_CONDITIONS.md)
+
